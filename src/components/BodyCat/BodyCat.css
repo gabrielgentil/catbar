@@ -1,0 +1,10 @@
+.bodycat-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.bodycat {
+  width: 18em;
+  margin-right: 30px
+}
